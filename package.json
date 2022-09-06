@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-diagnostics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanarkh/nodejs-diagnostics.git"
+  },
+  "author": "theanarkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanarkh/nodejs-diagnostics/issues"
+  },
+  "homepage": "https://github.com/theanarkh/nodejs-diagnostics#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
