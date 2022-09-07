@@ -1,4 +1,4 @@
-const { ThreadInspector, util } = require('node-inspector');
+const { ThreadInspector, util } = require('nodejs-inspector');
 
 class Diagnostics {
     inspector;
